@@ -1,0 +1,18 @@
+{
+  "testsiteurl": "https://www.#####.com/",
+  "locators": {
+    "Homepage_Zakelijk": {
+      "RadioGas_CSS": "input[value='Gas']",
+      "RadioStroomenGas_CSS": "input[value='Stroom en Gas']",
+      "RadioStroom_CSS": "input[value='Stroom']",
+      "NextStep_CSS": "input[value='Bereken']",
+      "Inloggen_GZ_Xpath": "(//a[contains(text(),'inloggen Mijn Eneco')])[2]",
+      "LucineSearchOnHeader_ID": "header_0_extramenuitems_0_searchtxt",
+      "testdata": {
+        "OlbicSearchText": "Bakery",
+        "LucineSearchText": "MKB\n"
+      }
+    
+}
+}
+}
